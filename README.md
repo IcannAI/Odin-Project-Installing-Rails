@@ -1,1 +1,3 @@
-# Odin-Project-Installing-Rails
+# Project: Installing Rails
+
+### [Guildeline](https://www.theodinproject.com/lessons/ruby-on-rails-installing-rails)
